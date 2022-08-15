@@ -1,0 +1,15 @@
+/Users/moisessoliz/Desktop/stiven_lovera/stiven/bin/Debug/net6.0/stiven
+/Users/moisessoliz/Desktop/stiven_lovera/stiven/bin/Debug/net6.0/stiven.deps.json
+/Users/moisessoliz/Desktop/stiven_lovera/stiven/bin/Debug/net6.0/stiven.runtimeconfig.json
+/Users/moisessoliz/Desktop/stiven_lovera/stiven/bin/Debug/net6.0/stiven.dll
+/Users/moisessoliz/Desktop/stiven_lovera/stiven/bin/Debug/net6.0/stiven.pdb
+/Users/moisessoliz/Desktop/stiven_lovera/stiven/obj/Debug/net6.0/stiven.csproj.AssemblyReference.cache
+/Users/moisessoliz/Desktop/stiven_lovera/stiven/obj/Debug/net6.0/stiven.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moisessoliz/Desktop/stiven_lovera/stiven/obj/Debug/net6.0/stiven.AssemblyInfoInputs.cache
+/Users/moisessoliz/Desktop/stiven_lovera/stiven/obj/Debug/net6.0/stiven.AssemblyInfo.cs
+/Users/moisessoliz/Desktop/stiven_lovera/stiven/obj/Debug/net6.0/stiven.csproj.CoreCompileInputs.cache
+/Users/moisessoliz/Desktop/stiven_lovera/stiven/obj/Debug/net6.0/stiven.dll
+/Users/moisessoliz/Desktop/stiven_lovera/stiven/obj/Debug/net6.0/refint/stiven.dll
+/Users/moisessoliz/Desktop/stiven_lovera/stiven/obj/Debug/net6.0/stiven.pdb
+/Users/moisessoliz/Desktop/stiven_lovera/stiven/obj/Debug/net6.0/stiven.genruntimeconfig.cache
+/Users/moisessoliz/Desktop/stiven_lovera/stiven/obj/Debug/net6.0/ref/stiven.dll

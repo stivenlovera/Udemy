@@ -1,0 +1,3 @@
+Curso: Patrones de diseño, Docente: Jose, Estudiantes: 1000, Valoración: 5
+Curso: Flutter, Docente: Jose, Estudiantes: 1900, Valoración: 4.5
+Curso: Flutter, Docente: Jose, Estudiantes: 1900, Valoración: 4.5

@@ -1,0 +1,15 @@
+/Users/moisessoliz/Desktop/stiven_lovera/solid_open_solid_principle/obj/Debug/net6.0/solid_open_solid_principle.csproj.AssemblyReference.cache
+/Users/moisessoliz/Desktop/stiven_lovera/solid_open_solid_principle/obj/Debug/net6.0/solid_open_solid_principle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moisessoliz/Desktop/stiven_lovera/solid_open_solid_principle/obj/Debug/net6.0/solid_open_solid_principle.AssemblyInfoInputs.cache
+/Users/moisessoliz/Desktop/stiven_lovera/solid_open_solid_principle/obj/Debug/net6.0/solid_open_solid_principle.AssemblyInfo.cs
+/Users/moisessoliz/Desktop/stiven_lovera/solid_open_solid_principle/obj/Debug/net6.0/solid_open_solid_principle.csproj.CoreCompileInputs.cache
+/Users/moisessoliz/Desktop/stiven_lovera/solid_open_solid_principle/bin/Debug/net6.0/solid_open_solid_principle
+/Users/moisessoliz/Desktop/stiven_lovera/solid_open_solid_principle/bin/Debug/net6.0/solid_open_solid_principle.deps.json
+/Users/moisessoliz/Desktop/stiven_lovera/solid_open_solid_principle/bin/Debug/net6.0/solid_open_solid_principle.runtimeconfig.json
+/Users/moisessoliz/Desktop/stiven_lovera/solid_open_solid_principle/bin/Debug/net6.0/solid_open_solid_principle.dll
+/Users/moisessoliz/Desktop/stiven_lovera/solid_open_solid_principle/bin/Debug/net6.0/solid_open_solid_principle.pdb
+/Users/moisessoliz/Desktop/stiven_lovera/solid_open_solid_principle/obj/Debug/net6.0/solid_open_solid_principle.dll
+/Users/moisessoliz/Desktop/stiven_lovera/solid_open_solid_principle/obj/Debug/net6.0/refint/solid_open_solid_principle.dll
+/Users/moisessoliz/Desktop/stiven_lovera/solid_open_solid_principle/obj/Debug/net6.0/solid_open_solid_principle.pdb
+/Users/moisessoliz/Desktop/stiven_lovera/solid_open_solid_principle/obj/Debug/net6.0/solid_open_solid_principle.genruntimeconfig.cache
+/Users/moisessoliz/Desktop/stiven_lovera/solid_open_solid_principle/obj/Debug/net6.0/ref/solid_open_solid_principle.dll

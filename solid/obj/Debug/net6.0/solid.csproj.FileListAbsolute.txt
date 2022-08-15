@@ -1,0 +1,15 @@
+/Users/moisessoliz/Desktop/stiven_lovera/solid/bin/Debug/net6.0/solid
+/Users/moisessoliz/Desktop/stiven_lovera/solid/bin/Debug/net6.0/solid.deps.json
+/Users/moisessoliz/Desktop/stiven_lovera/solid/bin/Debug/net6.0/solid.runtimeconfig.json
+/Users/moisessoliz/Desktop/stiven_lovera/solid/bin/Debug/net6.0/solid.dll
+/Users/moisessoliz/Desktop/stiven_lovera/solid/bin/Debug/net6.0/solid.pdb
+/Users/moisessoliz/Desktop/stiven_lovera/solid/obj/Debug/net6.0/solid.csproj.AssemblyReference.cache
+/Users/moisessoliz/Desktop/stiven_lovera/solid/obj/Debug/net6.0/solid.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moisessoliz/Desktop/stiven_lovera/solid/obj/Debug/net6.0/solid.AssemblyInfoInputs.cache
+/Users/moisessoliz/Desktop/stiven_lovera/solid/obj/Debug/net6.0/solid.AssemblyInfo.cs
+/Users/moisessoliz/Desktop/stiven_lovera/solid/obj/Debug/net6.0/solid.csproj.CoreCompileInputs.cache
+/Users/moisessoliz/Desktop/stiven_lovera/solid/obj/Debug/net6.0/solid.dll
+/Users/moisessoliz/Desktop/stiven_lovera/solid/obj/Debug/net6.0/refint/solid.dll
+/Users/moisessoliz/Desktop/stiven_lovera/solid/obj/Debug/net6.0/solid.pdb
+/Users/moisessoliz/Desktop/stiven_lovera/solid/obj/Debug/net6.0/solid.genruntimeconfig.cache
+/Users/moisessoliz/Desktop/stiven_lovera/solid/obj/Debug/net6.0/ref/solid.dll

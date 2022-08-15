@@ -1,0 +1,15 @@
+/Users/moisessoliz/Desktop/stiven_lovera/patron_builder/bin/Debug/net6.0/patron_builder
+/Users/moisessoliz/Desktop/stiven_lovera/patron_builder/bin/Debug/net6.0/patron_builder.deps.json
+/Users/moisessoliz/Desktop/stiven_lovera/patron_builder/bin/Debug/net6.0/patron_builder.runtimeconfig.json
+/Users/moisessoliz/Desktop/stiven_lovera/patron_builder/bin/Debug/net6.0/patron_builder.dll
+/Users/moisessoliz/Desktop/stiven_lovera/patron_builder/bin/Debug/net6.0/patron_builder.pdb
+/Users/moisessoliz/Desktop/stiven_lovera/patron_builder/obj/Debug/net6.0/patron_builder.csproj.AssemblyReference.cache
+/Users/moisessoliz/Desktop/stiven_lovera/patron_builder/obj/Debug/net6.0/patron_builder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moisessoliz/Desktop/stiven_lovera/patron_builder/obj/Debug/net6.0/patron_builder.AssemblyInfoInputs.cache
+/Users/moisessoliz/Desktop/stiven_lovera/patron_builder/obj/Debug/net6.0/patron_builder.AssemblyInfo.cs
+/Users/moisessoliz/Desktop/stiven_lovera/patron_builder/obj/Debug/net6.0/patron_builder.csproj.CoreCompileInputs.cache
+/Users/moisessoliz/Desktop/stiven_lovera/patron_builder/obj/Debug/net6.0/patron_builder.dll
+/Users/moisessoliz/Desktop/stiven_lovera/patron_builder/obj/Debug/net6.0/refint/patron_builder.dll
+/Users/moisessoliz/Desktop/stiven_lovera/patron_builder/obj/Debug/net6.0/patron_builder.pdb
+/Users/moisessoliz/Desktop/stiven_lovera/patron_builder/obj/Debug/net6.0/patron_builder.genruntimeconfig.cache
+/Users/moisessoliz/Desktop/stiven_lovera/patron_builder/obj/Debug/net6.0/ref/patron_builder.dll

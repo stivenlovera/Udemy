@@ -1,0 +1,15 @@
+/Users/moisessoliz/Desktop/stiven_lovera/liakov-substitution/bin/Debug/net6.0/liakov-substitution
+/Users/moisessoliz/Desktop/stiven_lovera/liakov-substitution/bin/Debug/net6.0/liakov-substitution.deps.json
+/Users/moisessoliz/Desktop/stiven_lovera/liakov-substitution/bin/Debug/net6.0/liakov-substitution.runtimeconfig.json
+/Users/moisessoliz/Desktop/stiven_lovera/liakov-substitution/bin/Debug/net6.0/liakov-substitution.dll
+/Users/moisessoliz/Desktop/stiven_lovera/liakov-substitution/bin/Debug/net6.0/liakov-substitution.pdb
+/Users/moisessoliz/Desktop/stiven_lovera/liakov-substitution/obj/Debug/net6.0/liakov-substitution.csproj.AssemblyReference.cache
+/Users/moisessoliz/Desktop/stiven_lovera/liakov-substitution/obj/Debug/net6.0/liakov-substitution.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moisessoliz/Desktop/stiven_lovera/liakov-substitution/obj/Debug/net6.0/liakov-substitution.AssemblyInfoInputs.cache
+/Users/moisessoliz/Desktop/stiven_lovera/liakov-substitution/obj/Debug/net6.0/liakov-substitution.AssemblyInfo.cs
+/Users/moisessoliz/Desktop/stiven_lovera/liakov-substitution/obj/Debug/net6.0/liakov-substitution.csproj.CoreCompileInputs.cache
+/Users/moisessoliz/Desktop/stiven_lovera/liakov-substitution/obj/Debug/net6.0/liakov-substitution.dll
+/Users/moisessoliz/Desktop/stiven_lovera/liakov-substitution/obj/Debug/net6.0/refint/liakov-substitution.dll
+/Users/moisessoliz/Desktop/stiven_lovera/liakov-substitution/obj/Debug/net6.0/liakov-substitution.pdb
+/Users/moisessoliz/Desktop/stiven_lovera/liakov-substitution/obj/Debug/net6.0/liakov-substitution.genruntimeconfig.cache
+/Users/moisessoliz/Desktop/stiven_lovera/liakov-substitution/obj/Debug/net6.0/ref/liakov-substitution.dll

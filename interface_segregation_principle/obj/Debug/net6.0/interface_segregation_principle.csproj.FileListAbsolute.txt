@@ -1,0 +1,15 @@
+/Users/moisessoliz/Desktop/stiven_lovera/interface_segregation_principle/bin/Debug/net6.0/interface_segregation_principle
+/Users/moisessoliz/Desktop/stiven_lovera/interface_segregation_principle/bin/Debug/net6.0/interface_segregation_principle.deps.json
+/Users/moisessoliz/Desktop/stiven_lovera/interface_segregation_principle/bin/Debug/net6.0/interface_segregation_principle.runtimeconfig.json
+/Users/moisessoliz/Desktop/stiven_lovera/interface_segregation_principle/bin/Debug/net6.0/interface_segregation_principle.dll
+/Users/moisessoliz/Desktop/stiven_lovera/interface_segregation_principle/bin/Debug/net6.0/interface_segregation_principle.pdb
+/Users/moisessoliz/Desktop/stiven_lovera/interface_segregation_principle/obj/Debug/net6.0/interface_segregation_principle.csproj.AssemblyReference.cache
+/Users/moisessoliz/Desktop/stiven_lovera/interface_segregation_principle/obj/Debug/net6.0/interface_segregation_principle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moisessoliz/Desktop/stiven_lovera/interface_segregation_principle/obj/Debug/net6.0/interface_segregation_principle.AssemblyInfoInputs.cache
+/Users/moisessoliz/Desktop/stiven_lovera/interface_segregation_principle/obj/Debug/net6.0/interface_segregation_principle.AssemblyInfo.cs
+/Users/moisessoliz/Desktop/stiven_lovera/interface_segregation_principle/obj/Debug/net6.0/interface_segregation_principle.csproj.CoreCompileInputs.cache
+/Users/moisessoliz/Desktop/stiven_lovera/interface_segregation_principle/obj/Debug/net6.0/interface_segregation_principle.dll
+/Users/moisessoliz/Desktop/stiven_lovera/interface_segregation_principle/obj/Debug/net6.0/refint/interface_segregation_principle.dll
+/Users/moisessoliz/Desktop/stiven_lovera/interface_segregation_principle/obj/Debug/net6.0/interface_segregation_principle.pdb
+/Users/moisessoliz/Desktop/stiven_lovera/interface_segregation_principle/obj/Debug/net6.0/interface_segregation_principle.genruntimeconfig.cache
+/Users/moisessoliz/Desktop/stiven_lovera/interface_segregation_principle/obj/Debug/net6.0/ref/interface_segregation_principle.dll
