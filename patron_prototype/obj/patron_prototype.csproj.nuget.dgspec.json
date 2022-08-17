@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/moisessoliz/Desktop/stiven_lovera/patron_prototype/patron_prototype.csproj": {}
+    "C:\\Users\\alovera\\OneDrive - Grupo SION\\Documentos\\stiven_lovera\\patron_prototype\\patron_prototype.csproj": {}
   },
   "projects": {
-    "/Users/moisessoliz/Desktop/stiven_lovera/patron_prototype/patron_prototype.csproj": {
+    "C:\\Users\\alovera\\OneDrive - Grupo SION\\Documentos\\stiven_lovera\\patron_prototype\\patron_prototype.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/moisessoliz/Desktop/stiven_lovera/patron_prototype/patron_prototype.csproj",
+        "projectUniqueName": "C:\\Users\\alovera\\OneDrive - Grupo SION\\Documentos\\stiven_lovera\\patron_prototype\\patron_prototype.csproj",
         "projectName": "patron_prototype",
-        "projectPath": "/Users/moisessoliz/Desktop/stiven_lovera/patron_prototype/patron_prototype.csproj",
-        "packagesPath": "/Users/moisessoliz/.nuget/packages/",
-        "outputPath": "/Users/moisessoliz/Desktop/stiven_lovera/patron_prototype/obj/",
+        "projectPath": "C:\\Users\\alovera\\OneDrive - Grupo SION\\Documentos\\stiven_lovera\\patron_prototype\\patron_prototype.csproj",
+        "packagesPath": "C:\\Users\\alovera\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alovera\\OneDrive - Grupo SION\\Documentos\\stiven_lovera\\patron_prototype\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/moisessoliz/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\alovera\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,7 +49,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -52,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
